@@ -3,3 +3,5 @@ This project is a Simple Snake Game implemented using Python and Pygame. The gam
 
 ![Project Overview](https://github.com/tharushasamarawickrama/snake-game/blob/main/picture%201.png)
 
+
+![Project Overview](https://github.com/tharushasamarawickrama/snake-game/blob/main/picture%203.png)
